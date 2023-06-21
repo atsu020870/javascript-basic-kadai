@@ -6,7 +6,7 @@ for (let i = 0; i <= 15; i += 1) {
 
 let i = 0;
 
-while (i < 366) {
+while (i < 266) {
     console.log(holidays [i] );
     i += 1;
   }
